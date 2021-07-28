@@ -3,9 +3,10 @@ import axios from 'axios';
 import Gallery from './Gallery';
 
 function App() {
+  const url="https://gist.githubusercontent.com/RazvanIonut97/114e102353b29415f039c758ade45cf7/raw/144d3144ac0065f5f4eb06c2e23afdbdbb6c36cc/paintings.json";
   const [paintings,setPaintings]=useState([]);
   useEffect(() => {
-    axios.get("http://localhost:8000/paintings").then(res=>setPaintings(res.data))
+    axios.get(url).then(res=>setPaintings(res.data))
     return () => {
       setPaintings([])
     }
