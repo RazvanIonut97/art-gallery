@@ -1,0 +1,133 @@
+{
+  "paintings": [
+    {
+      "id": 1,
+      "title": "The Starry Night",
+      "author": "Vincent van Gogh",
+      "year":"1889",
+      "source": "https://cdn.britannica.com/78/43678-050-F4DC8D93/Starry-Night-canvas-Vincent-van-Gogh-New-1889.jpg",
+      "about": "The Starry Night, a moderately abstract landscape painting (1889) of an expressive night sky over a small hillside village, one of Dutch artist Vincent van Gogh’s most celebrated works.The oil-on-canvas painting is dominated by a night sky roiling with chromatic blue swirls, a glowing yellow crescent moon, and stars rendered as radiating orbs. One or two cypress trees, often described as flame-like, tower over the foreground to the left, their dark branches curling and swaying to the movement of the sky that they partly obscure. Amid all this animation, a structured village sits in the distance on the lower right of the canvas. Straight controlled lines make up the small cottages and the slender steeple of a church, which rises as a beacon against rolling blue hills. The glowing yellow squares of the houses suggest the welcoming lights of peaceful homes, creating a calm corner amid the painting’s turbulence."
+    },
+    {
+      "id": 2,
+      "title": "Girl with a Pearl Earring",
+      "author": "Johannes Vermeer",
+      "year":"1665",
+      "source": "https://cdn.britannica.com/33/194733-050-4CF75F31/Girl-with-a-Pearl-Earring-canvas-Johannes-1665.jpg",
+      "about": "Girl with a Pearl Earring, oil painting on canvas (c. 1665) by Dutch artist Johannes Vermeer, one of his most well-known works. It depicts an imaginary young woman in exotic dress and a very large pearl earring. The work permanently resides in the Mauritshuis museum in The Hague.An observant and deliberate painter, Vermeer produced only 36 known works in his lifetime, while many of his contemporaries completed hundreds. Like his peers, he mostly depicted scenes of ordinary life, later called “genre” painting, often of women at daily tasks. Notable examples included Girl Reading a Letter at an Open Window (c. 1657) and The Music Lesson (c. 1665). He occasionally signed his paintings. While Girl with a Pearl Earring bears “IVMeer,” it is undated. Historians believe Vermeer painted the small piece (17.52 × 15.35 inches [44.5 × 39 cm]) around 1665, during the period in which he executed a group of paintings with a shared pearl motif."
+    },
+    {
+      "id": 3,
+      "title": "Guernica",
+      "author": "Pablo Picasso",
+      "year":"1973",
+      "source": "https://cdn.britannica.com/79/91479-050-24F98E12/Guernica-canvas-Pablo-Picasso-Madrid-Museo-Nacional-1937.jpg",
+      "about":"Guernica, a large black-and-white oil painting executed by Spanish artist Pablo Picasso in 1937 following the German bombing of Guernica, a city in Spain’s Basque region. The complex painting received mixed reviews when it was shown in the Spanish Republic Pavilion at the world’s fair in Paris, but it became an icon as it traveled the world in ensuing years, raising controversies on its meaning and its rightful home. Picasso was living in Paris when the Spanish Republican government approached him in 1937 with a commission to produce a mural for their pavilion in that year’s world’s fair. Spain was six months into its civil war—a military revolt undertaken by the Nationalists against the government—and the Republicans saw the international event as an opportunity to assert its legitimacy and to condemn the brutal tactics of Gen. Francisco Franco’s Nationalist army. Picasso, who rarely mixed politics and art, accepted. Several months later, German aircraft, at the request of the Nationalists, heavily bombed the city of Guernica on April 26. The three-hour long blitzkrieg nearly annihilated the city and killed or wounded one-third of the population. Coverage of the devastation set Picasso to work on the commission, and he completed the enormous painting (11.5 × 25.5 feet [3.49 × 7.77 metres]) in about three weeks."    
+    },
+    {
+      "id": 4,
+      "title": "Portrait of a Lady",
+      "author": "Artemisia Gentileschi",
+      "year":"1620",
+      "source": "https://cdn.britannica.com/93/95793-050-CF1A8DAC/Portrait-of-a-Lady-Costume-canvas-Artemisia.jpg",
+      "about":"Artemisia Gentileschi, (born July 8, 1593, Rome, Papal States [Italy]—died 1652/53, Naples, Kingdom of Naples), Italian painter, daughter of Orazio Gentileschi, who was a major follower of the revolutionary Baroque painter Caravaggio. She was an important second-generation proponent of Caravaggio’s dramatic realism. A pupil of her father and of his friend the landscape painter Agostino Tassi, she painted at first in a style indistinguishable from her father’s somewhat lyrical interpretation of Caravaggio’s example. Her first known work is Susanna and the Elders (1610), an accomplished work long attributed to her father. She also painted two versions of a scene already essayed by Caravaggio (but never attempted by her father), Judith Beheading Holofernes (c. 1612–13; c. 1620). She was raped by Tassi, and, when he did not fulfill his promise to marry her, Orazio Gentileschi in 1612 brought him to trial. During that event she herself was forced to give evidence under torture."    
+    },
+    {
+      "id": 5,
+      "title": "The Storm on the Sea of Galilee",
+      "author": "Rembrandt van Rijn",
+      "year":"1633",
+      "source": "https://www.gardnermuseum.org/sites/default/files/images/art/21/07/009164.jpg",
+      "about":"Rembrandt’s most striking narrative painting in America, Christ in the Storm on the Sea of Galilee, is also his only painted seascape. Dated 1633, it was made shortly after Rembrandt moved to Amsterdam from his native Leiden, when he was establishing himself as the city’s leading painter of portraits and historical subjects. The detailed rendering of the scene, the figures’ varied expressions, the relatively polished brushwork, and the bright coloring are characteristic of Rembrandt’s early style. Eighteenth-century critics like Arnold Houbraken often preferred this early period to Rembrandt’s later, broader, and less descriptive manner.The biblical scene pitches nature against human frailty – both physical and spiritual. The panic-stricken disciples struggle against a sudden storm, and fight to regain control of their fishing boat as a huge wave crashes over its bow, ripping the sail and drawing the craft perilously close to the rocks in the left foreground. One of the disciples succumbs to the sea’s violence by vomiting over the side. Amidst this chaos, only Christ, at the right, remains calm, like the eye of the storm. Awakened by the disciples’ desperate pleas for help, he rebukes them: “Why are ye fearful, O ye of little faith?” and then rises to calm the fury of wind and waves. Nature’s upheaval is both cause and metaphor for the terror that grips the disciples, magnifying the emotional turbulence and thus the image’s dramatic impact."    
+    },
+    {
+      "id": 6,
+      "title": "Under the Wave off Kanagawa",
+      "author": "Katsushika Hokusai ",
+      "year":"1831",
+      "source": "https://images.metmuseum.org/CRDImages/as/original/DP130155.jpg",
+      "about":"The breathtaking composition of this woodblock print, said to have inspired Debussy’s La Mer (The Sea) and Rilke’s Der Berg (The Mountain), ensures its reputation as an icon of world art. Hokusai cleverly played with perspective to make Japan’s grandest mountain appear as a small triangular mound within the hollow of the cresting wave. The artist became famous for his landscapes created using a palette of indigo and imported Prussian blue."    
+    },
+    {
+      "id": 7,
+      "title": "Self-Portrait",
+      "author": "Vincent van Gogh",
+      "year":"1887",
+      "source": "https://cdn.britannica.com/36/69636-050-81A93193/Self-Portrait-artist-panel-board-Vincent-van-Gogh-1887.jpg",
+      "about":"Rembrandt’s most striking narrative painting in America, Christ in the Storm on the Sea of Galilee, is also his only painted seascape. Dated 1633, it was made shortly after Rembrandt moved to Amsterdam from his native Leiden, when he was establishing himself as the city’s leading painter of portraits and historical subjects. The detailed rendering of the scene, the figures’ varied expressions, the relatively polished brushwork, and the bright coloring are characteristic of Rembrandt’s early style. Eighteenth-century critics like Arnold Houbraken often preferred this early period to Rembrandt’s later, broader, and less descriptive manner.The biblical scene pitches nature against human frailty – both physical and spiritual. The panic-stricken disciples struggle against a sudden storm, and fight to regain control of their fishing boat as a huge wave crashes over its bow, ripping the sail and drawing the craft perilously close to the rocks in the left foreground. One of the disciples succumbs to the sea’s violence by vomiting over the side. Amidst this chaos, only Christ, at the right, remains calm, like the eye of the storm. Awakened by the disciples’ desperate pleas for help, he rebukes them: “Why are ye fearful, O ye of little faith?” and then rises to calm the fury of wind and waves. Nature’s upheaval is both cause and metaphor for the terror that grips the disciples, magnifying the emotional turbulence and thus the image’s dramatic impact."    
+    },
+    {
+      "id": 8,
+      "title": "The Sleeping Gypsy",
+      "author": "Henri Rousseau",
+      "year":"1897",
+      "source": "https://artschaft.files.wordpress.com/2018/03/henri-rousseau-the-sleeping-gypsy.jpg",
+      "about":"The breathtaking composition of this woodblock print, said to have inspired Debussy’s La Mer (The Sea) and Rilke’s Der Berg (The Mountain), ensures its reputation as an icon of world art. Hokusai cleverly played with perspective to make Japan’s grandest mountain appear as a small triangular mound within the hollow of the cresting wave. The artist became famous for his landscapes created using a palette of indigo and imported Prussian blue."    
+    },
+    {
+      "id": 9,
+      "title": "The Lady with a Ermine",
+      "author": "Leonardo da Vinci",
+      "year":"1887",
+      "source": "https://www.leonardodavinci.net/images/gallery/lady-with-an-ermine.jpg",
+      "about":"Rembrandt’s most striking narrative painting in America, Christ in the Storm on the Sea of Galilee, is also his only painted seascape. Dated 1633, it was made shortly after Rembrandt moved to Amsterdam from his native Leiden, when he was establishing himself as the city’s leading painter of portraits and historical subjects. The detailed rendering of the scene, the figures’ varied expressions, the relatively polished brushwork, and the bright coloring are characteristic of Rembrandt’s early style. Eighteenth-century critics like Arnold Houbraken often preferred this early period to Rembrandt’s later, broader, and less descriptive manner.The biblical scene pitches nature against human frailty – both physical and spiritual. The panic-stricken disciples struggle against a sudden storm, and fight to regain control of their fishing boat as a huge wave crashes over its bow, ripping the sail and drawing the craft perilously close to the rocks in the left foreground. One of the disciples succumbs to the sea’s violence by vomiting over the side. Amidst this chaos, only Christ, at the right, remains calm, like the eye of the storm. Awakened by the disciples’ desperate pleas for help, he rebukes them: “Why are ye fearful, O ye of little faith?” and then rises to calm the fury of wind and waves. Nature’s upheaval is both cause and metaphor for the terror that grips the disciples, magnifying the emotional turbulence and thus the image’s dramatic impact."    
+    },
+    {
+      "id": 10,
+      "title": "The Night Caffe",
+      "author": "Vincent van Gogh",
+      "year":"1897",
+      "source": "https://www.vangoghgallery.com/painting/img/cafe_full.jpeg",
+      "about":"The breathtaking composition of this woodblock print, said to have inspired Debussy’s La Mer (The Sea) and Rilke’s Der Berg (The Mountain), ensures its reputation as an icon of world art. Hokusai cleverly played with perspective to make Japan’s grandest mountain appear as a small triangular mound within the hollow of the cresting wave. The artist became famous for his landscapes created using a palette of indigo and imported Prussian blue."    
+    },
+    {
+      "id": 11,
+      "title": "Mona Lisa",
+      "author": "Leonardo da Vinci",
+      "year":"1887",
+      "source": "https://cdn.britannica.com/24/189624-050-F3C5BAA9/Mona-Lisa-oil-wood-panel-Leonardo-da.jpg",
+      "about":"Rembrandt’s most striking narrative painting in America, Christ in the Storm on the Sea of Galilee, is also his only painted seascape. Dated 1633, it was made shortly after Rembrandt moved to Amsterdam from his native Leiden, when he was establishing himself as the city’s leading painter of portraits and historical subjects. The detailed rendering of the scene, the figures’ varied expressions, the relatively polished brushwork, and the bright coloring are characteristic of Rembrandt’s early style. Eighteenth-century critics like Arnold Houbraken often preferred this early period to Rembrandt’s later, broader, and less descriptive manner.The biblical scene pitches nature against human frailty – both physical and spiritual. The panic-stricken disciples struggle against a sudden storm, and fight to regain control of their fishing boat as a huge wave crashes over its bow, ripping the sail and drawing the craft perilously close to the rocks in the left foreground. One of the disciples succumbs to the sea’s violence by vomiting over the side. Amidst this chaos, only Christ, at the right, remains calm, like the eye of the storm. Awakened by the disciples’ desperate pleas for help, he rebukes them: “Why are ye fearful, O ye of little faith?” and then rises to calm the fury of wind and waves. Nature’s upheaval is both cause and metaphor for the terror that grips the disciples, magnifying the emotional turbulence and thus the image’s dramatic impact."    
+    },
+    {
+      "id": 12,
+      "title": "The basket of apples",
+      "author": "Vincent van Gogh",
+      "year":"1897",
+      "source": "https://www.artic.edu/iiif/2/5b79b325-4fa5-0db9-2f3a-a99586400286/full/843,/0/default.jpg",
+      "about":"The breathtaking composition of this woodblock print, said to have inspired Debussy’s La Mer (The Sea) and Rilke’s Der Berg (The Mountain), ensures its reputation as an icon of world art. Hokusai cleverly played with perspective to make Japan’s grandest mountain appear as a small triangular mound within the hollow of the cresting wave. The artist became famous for his landscapes created using a palette of indigo and imported Prussian blue."    
+    },
+    {
+      "id": 13,
+      "title": "Mona Lisa",
+      "author": "Leonardo da Vinci",
+      "year":"1887",
+      "source": "https://www.paulcezanne.org/images/paintings/boy-in-a-red-vest.jpg",
+      "about":"Rembrandt’s most striking narrative painting in America, Christ in the Storm on the Sea of Galilee, is also his only painted seascape. Dated 1633, it was made shortly after Rembrandt moved to Amsterdam from his native Leiden, when he was establishing himself as the city’s leading painter of portraits and historical subjects. The detailed rendering of the scene, the figures’ varied expressions, the relatively polished brushwork, and the bright coloring are characteristic of Rembrandt’s early style. Eighteenth-century critics like Arnold Houbraken often preferred this early period to Rembrandt’s later, broader, and less descriptive manner.The biblical scene pitches nature against human frailty – both physical and spiritual. The panic-stricken disciples struggle against a sudden storm, and fight to regain control of their fishing boat as a huge wave crashes over its bow, ripping the sail and drawing the craft perilously close to the rocks in the left foreground. One of the disciples succumbs to the sea’s violence by vomiting over the side. Amidst this chaos, only Christ, at the right, remains calm, like the eye of the storm. Awakened by the disciples’ desperate pleas for help, he rebukes them: “Why are ye fearful, O ye of little faith?” and then rises to calm the fury of wind and waves. Nature’s upheaval is both cause and metaphor for the terror that grips the disciples, magnifying the emotional turbulence and thus the image’s dramatic impact."    
+    },
+    {
+      "id": 14,
+      "title": "The basket of apples",
+      "author": "Vincent van Gogh",
+      "year":"1897",
+      "source": "https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2016/03/Van_Eyck_-_Arnolfini_Portrait.jpg",
+      "about":"The breathtaking composition of this woodblock print, said to have inspired Debussy’s La Mer (The Sea) and Rilke’s Der Berg (The Mountain), ensures its reputation as an icon of world art. Hokusai cleverly played with perspective to make Japan’s grandest mountain appear as a small triangular mound within the hollow of the cresting wave. The artist became famous for his landscapes created using a palette of indigo and imported Prussian blue."    
+    },
+    {
+      "id": 15,
+      "title": "The basket of apples",
+      "author": "Vincent van Gogh",
+      "year":"1897",
+      "source": "https://smarthistory.org/wp-content/uploads/2021/02/Fragonard-Swing-Whole-870x1092.jpg",
+      "about":"The breathtaking composition of this woodblock print, said to have inspired Debussy’s La Mer (The Sea) and Rilke’s Der Berg (The Mountain), ensures its reputation as an icon of world art. Hokusai cleverly played with perspective to make Japan’s grandest mountain appear as a small triangular mound within the hollow of the cresting wave. The artist became famous for his landscapes created using a palette of indigo and imported Prussian blue."    
+    },
+    {
+      "id": 16,
+      "title": "The basket of apples",
+      "author": "Vincent van Gogh",
+      "year":"1897",
+      "source": "https://images.uffizi.it/production/attachments/1503909239806647-605174-2-.jpg",
+      "about":"The breathtaking composition of this woodblock print, said to have inspired Debussy’s La Mer (The Sea) and Rilke’s Der Berg (The Mountain), ensures its reputation as an icon of world art. Hokusai cleverly played with perspective to make Japan’s grandest mountain appear as a small triangular mound within the hollow of the cresting wave. The artist became famous for his landscapes created using a palette of indigo and imported Prussian blue."    
+    }
+
+  ]
+}

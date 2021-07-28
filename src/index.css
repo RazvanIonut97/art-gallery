@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: grid;
+    justify-content: center;
+    align-self: center;
+    min-height: 100vh;
+    padding: 1.5rem;
+   
+  
+}
+.Header{
+display: flex;
+justify-content: space-between;
+align-items: center;
+border-bottom: 1px solid red;
+padding-bottom: 1rem;
+margin-bottom: 1.5rem;
+
+}
