@@ -4,7 +4,7 @@ import Gallery from './Gallery';
 import { MdPlayArrow } from "react-icons/md";
 
 function App() {
-  const url="https://gist.githubusercontent.com/RazvanIonut97/114e102353b29415f039c758ade45cf7/raw/cb3ce4b83710be2215eaf50d2c8bd823c22ac6a5/paintings.json";
+  const url="https://gist.githubusercontent.com/RazvanIonut97/114e102353b29415f039c758ade45cf7/raw/144d3144ac0065f5f4eb06c2e23afdbdbb6c36cc/paintings.json";
 
   const [paintings,setPaintings]=useState([]);
   useEffect(() => {
