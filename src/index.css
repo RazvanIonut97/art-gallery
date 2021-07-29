@@ -2,6 +2,7 @@
     margin:0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Gowun Batang', serif;
 }
 body{
     display: grid;
@@ -13,11 +14,38 @@ body{
   
 }
 .Header{
+
+
 display: flex;
 justify-content: space-between;
 align-items: center;
-border-bottom: 1px solid red;
+border-bottom: 2px solid gray;
 padding-bottom: 1rem;
 margin-bottom: 1.5rem;
-
 }
+.Title{
+    font-size: 32px;
+    font-weight: 900;
+    
+}
+.TextPlay{
+    display: none;
+}
+.BtnPlay{
+    font-size: 1.5em;
+    border: 1px solid black;
+    margin-right: 1rem;
+}
+ @media(min-width:500px){
+    .TextPlay{
+        display: inline;
+        font-size: 1em;
+    }
+    .BtnPlay{
+        display: none;
+    }
+    .Title{
+        font-size: 32px;
+        font-weight: 900;
+    }
+ }

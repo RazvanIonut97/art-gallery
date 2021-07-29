@@ -1,13 +1,21 @@
-.Gallery{
-margin:0px auto;
 
-
-
+@media(min-width:500px){
+  .Gallery{
+    column-count: 2;
+   
+  }
+ 
 }
-
 @media(min-width:768px){
   .Gallery{
     column-count: 3;
+   
+  }
+ 
+}
+@media(min-width:1200px){
+  .Gallery{
+    column-count: 4;
    
   }
  

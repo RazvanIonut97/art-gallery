@@ -127,6 +127,54 @@
       "year":"1897",
       "source": "https://images.uffizi.it/production/attachments/1503909239806647-605174-2-.jpg",
       "about":"The breathtaking composition of this woodblock print, said to have inspired Debussy’s La Mer (The Sea) and Rilke’s Der Berg (The Mountain), ensures its reputation as an icon of world art. Hokusai cleverly played with perspective to make Japan’s grandest mountain appear as a small triangular mound within the hollow of the cresting wave. The artist became famous for his landscapes created using a palette of indigo and imported Prussian blue."    
+    },
+    {
+      "id": 17,
+      "title": "Portrait of a Lady",
+      "author": "Artemisia Gentileschi",
+      "year":"1620",
+      "source": "https://cdn.britannica.com/93/95793-050-CF1A8DAC/Portrait-of-a-Lady-Costume-canvas-Artemisia.jpg",
+      "about":"Artemisia Gentileschi, (born July 8, 1593, Rome, Papal States [Italy]—died 1652/53, Naples, Kingdom of Naples), Italian painter, daughter of Orazio Gentileschi, who was a major follower of the revolutionary Baroque painter Caravaggio. She was an important second-generation proponent of Caravaggio’s dramatic realism. A pupil of her father and of his friend the landscape painter Agostino Tassi, she painted at first in a style indistinguishable from her father’s somewhat lyrical interpretation of Caravaggio’s example. Her first known work is Susanna and the Elders (1610), an accomplished work long attributed to her father. She also painted two versions of a scene already essayed by Caravaggio (but never attempted by her father), Judith Beheading Holofernes (c. 1612–13; c. 1620). She was raped by Tassi, and, when he did not fulfill his promise to marry her, Orazio Gentileschi in 1612 brought him to trial. During that event she herself was forced to give evidence under torture."    
+    },
+    {
+      "id": 18,
+      "title": "The Storm on the Sea of Galilee",
+      "author": "Rembrandt van Rijn",
+      "year":"1633",
+      "source": "https://www.gardnermuseum.org/sites/default/files/images/art/21/07/009164.jpg",
+      "about":"Rembrandt’s most striking narrative painting in America, Christ in the Storm on the Sea of Galilee, is also his only painted seascape. Dated 1633, it was made shortly after Rembrandt moved to Amsterdam from his native Leiden, when he was establishing himself as the city’s leading painter of portraits and historical subjects. The detailed rendering of the scene, the figures’ varied expressions, the relatively polished brushwork, and the bright coloring are characteristic of Rembrandt’s early style. Eighteenth-century critics like Arnold Houbraken often preferred this early period to Rembrandt’s later, broader, and less descriptive manner.The biblical scene pitches nature against human frailty – both physical and spiritual. The panic-stricken disciples struggle against a sudden storm, and fight to regain control of their fishing boat as a huge wave crashes over its bow, ripping the sail and drawing the craft perilously close to the rocks in the left foreground. One of the disciples succumbs to the sea’s violence by vomiting over the side. Amidst this chaos, only Christ, at the right, remains calm, like the eye of the storm. Awakened by the disciples’ desperate pleas for help, he rebukes them: “Why are ye fearful, O ye of little faith?” and then rises to calm the fury of wind and waves. Nature’s upheaval is both cause and metaphor for the terror that grips the disciples, magnifying the emotional turbulence and thus the image’s dramatic impact."    
+    },
+    {
+      "id": 19,
+      "title": "Under the Wave off Kanagawa",
+      "author": "Katsushika Hokusai ",
+      "year":"1831",
+      "source": "https://images.metmuseum.org/CRDImages/as/original/DP130155.jpg",
+      "about":"The breathtaking composition of this woodblock print, said to have inspired Debussy’s La Mer (The Sea) and Rilke’s Der Berg (The Mountain), ensures its reputation as an icon of world art. Hokusai cleverly played with perspective to make Japan’s grandest mountain appear as a small triangular mound within the hollow of the cresting wave. The artist became famous for his landscapes created using a palette of indigo and imported Prussian blue."    
+    },
+    {
+      "id": 20,
+      "title": "The basket of apples",
+      "author": "Vincent van Gogh",
+      "year":"1897",
+      "source": "https://www.artic.edu/iiif/2/5b79b325-4fa5-0db9-2f3a-a99586400286/full/843,/0/default.jpg",
+      "about":"The breathtaking composition of this woodblock print, said to have inspired Debussy’s La Mer (The Sea) and Rilke’s Der Berg (The Mountain), ensures its reputation as an icon of world art. Hokusai cleverly played with perspective to make Japan’s grandest mountain appear as a small triangular mound within the hollow of the cresting wave. The artist became famous for his landscapes created using a palette of indigo and imported Prussian blue."    
+    },
+    {
+      "id": 21,
+      "title": "Mona Lisa",
+      "author": "Leonardo da Vinci",
+      "year":"1887",
+      "source": "https://www.paulcezanne.org/images/paintings/boy-in-a-red-vest.jpg",
+      "about":"Rembrandt’s most striking narrative painting in America, Christ in the Storm on the Sea of Galilee, is also his only painted seascape. Dated 1633, it was made shortly after Rembrandt moved to Amsterdam from his native Leiden, when he was establishing himself as the city’s leading painter of portraits and historical subjects. The detailed rendering of the scene, the figures’ varied expressions, the relatively polished brushwork, and the bright coloring are characteristic of Rembrandt’s early style. Eighteenth-century critics like Arnold Houbraken often preferred this early period to Rembrandt’s later, broader, and less descriptive manner.The biblical scene pitches nature against human frailty – both physical and spiritual. The panic-stricken disciples struggle against a sudden storm, and fight to regain control of their fishing boat as a huge wave crashes over its bow, ripping the sail and drawing the craft perilously close to the rocks in the left foreground. One of the disciples succumbs to the sea’s violence by vomiting over the side. Amidst this chaos, only Christ, at the right, remains calm, like the eye of the storm. Awakened by the disciples’ desperate pleas for help, he rebukes them: “Why are ye fearful, O ye of little faith?” and then rises to calm the fury of wind and waves. Nature’s upheaval is both cause and metaphor for the terror that grips the disciples, magnifying the emotional turbulence and thus the image’s dramatic impact."    
+    },
+    {
+      "id": 22,
+      "title": "The basket of apples",
+      "author": "Vincent van Gogh",
+      "year":"1897",
+      "source": "https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2016/03/Van_Eyck_-_Arnolfini_Portrait.jpg",
+      "about":"The breathtaking composition of this woodblock print, said to have inspired Debussy’s La Mer (The Sea) and Rilke’s Der Berg (The Mountain), ensures its reputation as an icon of world art. Hokusai cleverly played with perspective to make Japan’s grandest mountain appear as a small triangular mound within the hollow of the cresting wave. The artist became famous for his landscapes created using a palette of indigo and imported Prussian blue."    
     }
 
   ]

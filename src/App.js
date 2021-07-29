@@ -1,9 +1,11 @@
 import {useEffect,useState} from 'react';
 import axios from 'axios';
 import Gallery from './Gallery';
+import { MdPlayArrow } from "react-icons/md";
 
 function App() {
-  const url="https://gist.githubusercontent.com/RazvanIonut97/114e102353b29415f039c758ade45cf7/raw/144d3144ac0065f5f4eb06c2e23afdbdbb6c36cc/paintings.json";
+  const url="https://gist.githubusercontent.com/RazvanIonut97/114e102353b29415f039c758ade45cf7/raw/cb3ce4b83710be2215eaf50d2c8bd823c22ac6a5/paintings.json";
+
   const [paintings,setPaintings]=useState([]);
   useEffect(() => {
     axios.get(url).then(res=>setPaintings(res.data))
@@ -16,8 +18,9 @@ function App() {
   return (
     <div className="App">
       <header className="Header">
-        <h1 className="Title">galleria.</h1>
-        <p>START SLIDESHOW</p>
+        <h1 className="Title">  galleria.</h1>
+        <MdPlayArrow className="BtnPlay"/>
+        <p className="TextPlay">START SLIDESHOW</p>
         </header>
     <Gallery paintings={paintings}/>
     </div>

@@ -4,7 +4,7 @@ function Paint({paint}) {
         <div className="Paint">
             <img src={paint.source} alt="nu" />
             
-            <a className="about" href="#">
+            <a className="About" href={paint.source}>
             <h2>{paint.title}</h2>
             <h3>{paint.author}</h3>
             

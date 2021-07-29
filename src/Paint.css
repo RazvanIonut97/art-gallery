@@ -1,60 +1,42 @@
-.Paint img{
-   width: 100%;
-   height: auto;
-   display: block;
-   
+.Paint img {
+    width: 100%;
+    height: auto;
+    display: block;
 }
-.Paint
-    { /* change div to reference your elements you put in <Masonry> */
+
+.Paint {
     position: relative;
     margin-bottom: 1.5rem;
-    background-color: seagreen;
-
-    }
-.cont{
-    width: 100%;
-   
-    
-   
-    
-    
 }
-.about{
+.About {
     padding: 0.5em;
     display: flex;
     width: 100%;
-    background-color: rgba(0, 0, 0,0.8);
+    background-color: rgba(0, 0, 0, 0.8);
     color: white;
     min-height: auto;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     position: absolute;
-    bottom:0px;
+    bottom: 0px;
     left: 0px;
 }
 
 
 
-@media(min-width:768px){
-    .cont{
-       height: 100%;
-       width: 100%;
-       background-color: rgba(0, 0, 0,0.5);
-       display: flex;
-       align-items: flex-end;
-       justify-content: center;
-       
-       
-        
-    }
-    .Paint .about {
+@media(min-width:768px) {
+    
+    .Paint .About {
         display: none;
-        
-     }
 
-     .Paint:hover .about {
-         display: flex;
-     }
-  }
+    }
+
+    .Paint:hover .About {
+        display: flex;
+    }
+}
+@media(min-width:300px) {
+    
   
+}
